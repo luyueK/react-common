@@ -1,0 +1,1 @@
+2017-10-17 基于react和服务器制作的评论功能，未上传node_modules文件夹，根据package.json进行安装环境，app.js为功能文件，基于react框架，commentserve为服务器文件，基于node+express。
